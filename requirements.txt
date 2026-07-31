@@ -1,0 +1,4 @@
+jmespath 
+python-dotenv
+requests-ratelimiter
+requests
