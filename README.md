@@ -8,7 +8,7 @@ A small set of python scripts to find new music from the artists in your playlis
 --song   List song names from album and saves titles to a JSON file
 --feed   Feed album ids from a JSON file into song function to return all song names for all albums
 ```
-### music_sort.py
+### artist_sort.py
 ```
 --spattern if the default regex search pattern for songs does not work for you specify your own here. Escape your regex pattern with single quotes
 --apattern if the default regex search pattern for artist does not work for you specify your own here. Escape your regex pattern with single quotes
